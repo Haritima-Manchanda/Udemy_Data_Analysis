@@ -1,3 +1,4 @@
+# Initial Project Setup Instructions
 To create a virtual environment for a Jupyter Notebook project using Windows PowerShell, you can follow these steps:
 
 Open Windows PowerShell:
