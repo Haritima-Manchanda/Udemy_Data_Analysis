@@ -27,3 +27,10 @@ Note: When you're done working with your virtual environment, you can deactivate
 ```deactivate```
 
 Remember to activate the virtual environment again whenever you want to work on your project in Jupyter Notebook.
+
+### About this dataset:
+
+@misc{willden,
+url={http://theconceptcenter.com/simple-research-study-udemy-courses/},
+journal={Concept Center},
+author={Willden, Chase}}
